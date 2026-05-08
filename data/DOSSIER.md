@@ -478,3 +478,4 @@ adaptation. Especially important after quality sessions and long runs.
 - Initial dossier created via Section 11 pipeline setup
 - Pre-filled from Intervals.icu JSON data + athlete interview
 - Key reference: Maratón de Cartago 2026-04-12 as current fitness baseline
+
