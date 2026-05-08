@@ -192,9 +192,9 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Mié 24 | Gym (lighter — sin piernas pesadas) | — |
 | Jue 25 | EASY 7km | HR 125–140 |
 | Vie 26 | Gym (lighter) | — |
-| Sáb 27 | LONG 13km | Completamente fácil. HR 130–145. Sin ritmo de carrera. |
-| Dom 28 | Descanso | — |
-**Est. volumen running:** ~33km
+| Sáb 27 | EASY 8km | HR 125–140. Suave. Piernas frescas para la carrera. ~~LONG 13km eliminado~~ |
+| **Dom 28** | **🏁 CARRERA — La Clásica Managua 10K** | Salida 5:00AM. El Establo, Managua. 137m D+. **Objetivo: PR (sub-51:59)**. Estrategia: no forzar en subidas (HR máx 175-178), recuperar en bajadas y planos. Mirá GAP en el Garmin, no pace real. |
+**Est. volumen running:** ~31km (+ 10K de carrera = ~41km total)
 
 ---
 
