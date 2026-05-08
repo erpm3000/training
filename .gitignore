@@ -1,0 +1,21 @@
+# Credentials — never commit
+.env
+*.key
+*.pem
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime files
+pushed_events.json
+logs/
+
+# macOS
+.DS_Store
+
+# JSON data files — these live in Google Drive (synced 4x/day)
+# Commit DOSSIER.md, TRAINING_PLAN.md manually when updated
+*.json
