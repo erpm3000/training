@@ -59,7 +59,7 @@ pace-guided on intervals and tempo; 3-4 runs/week + 3x strength
 
 | Component | Details |
 |-----------|---------|
-| Watch / HRM | Garmin (HRV + HR + GPS — primary data source) |
+| Watch / HRM | Garmin watch (GPS + HRV) + **Garmin HRM-600** (chest strap — en uso desde 2026-05-09, HR primario en runs) |
 | Training App | Runna (program delivery, interval pacing) |
 | Head Unit | Garmin watch (same device) |
 
@@ -437,6 +437,7 @@ adaptation. Especially important after quality sessions and long runs.
 - `routes.json` — terrain data (when GPS attached)
 - `ftp_history.json` — FTP timeline
 - `DOSSIER.md` — this file
+- `TRAINING_PLAN.md` — **full 12-week plan** (May 4 – Jul 26, 2026). Read this file whenever the athlete asks about scheduled workouts, upcoming sessions, what's planned for a specific day/week, or any question about the training schedule. This is the authoritative plan — not the `planned_workouts` array in latest.json (which only covers ~6 weeks ahead).
 
 **Manual sync:** `bash ~/training-data/sync_wrapper.sh`
 
