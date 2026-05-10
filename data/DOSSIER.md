@@ -290,18 +290,23 @@ All-time Strava HM PR: 1:56:43 (fastest 21.1km segment across all activities).
 
 ## 5. Nutrition / Fueling
 
-### Race Fueling Protocol (validated at Cartago 2026)
+### Race Fueling Protocol (validated at Cartago 2026 — confirmed for Granada July 2026)
 
-**Standard race protocol (hot/dry conditions — Granada July):**
-- GU Energy Gel every **25 minutes** throughout race
-- SaltStick salt pill with caffeine — 1 per gel (every 25 min)
-- Trained with this system in Managua heat → felt great → use it at Granada
+**Protocolo confirmado — Granada julio (calor + humedad alta):**
+- GU Energy Gel cada **25 minutos** durante toda la carrera
+- SaltStick (pastilla de sal con cafeína) — 1 por cada gel (cada 25 min)
+- Entrenado con este sistema en calor de Managua → funcionó → repetir en Granada
+- Aunque llueva en Granada en julio: las temperaturas se mantienen en 27–30°C → el protocolo completo aplica igual. No es la condición de Cartago.
 
-**Cold/wet condition adjustment (Cartago lesson):**
-- At Cartago it rained the entire race → didn't sweat → sodium accumulated → felt bloated ~20K
-- Stopped salt pills at 20K but kept gels (correct instinct)
-- **Rule:** In cold or wet conditions, reduce or eliminate SaltStick. Gels only if cool + wet.
-- Assess race morning temperature/forecast. If <22°C or raining: gels only, no salt pills.
+**Excepción frío+lluvia (lección Cartago 2026) — NO aplica a Granada julio:**
+- En Cartago llovió toda la carrera Y la temperatura era baja → no sudé → sodio acumulado → inflamación ~20K
+- Detuve las pastillas de sal en el km 20 (correcto instinto) pero seguí con geles
+- **Regla:** Solo suprimir SaltStick si la temperatura es <22°C Y está lloviendo (frío + mojado simultáneo). En Granada julio esto no ocurre — incluso con lluvia, el calor está.
+
+**Entrenamiento del protocolo:**
+- Practicar el protocolo completo (GU + SaltStick cada 25 min) en todos los long runs ≥ 90 min durante el build, especialmente semanas 5–7
+- El intestino necesita adaptarse al ritmo de ingesta en condiciones de calor antes del día de carrera
+- No guardar el protocolo solo para la carrera — el gut training es parte del entrenamiento
 
 ### Training Fueling
 
@@ -309,12 +314,9 @@ All-time Strava HM PR: 1:56:43 (fastest 21.1km segment across all activities).
 |--------------|----------|------|
 | Easy / Recovery | < 60 min | Fasted OK, water |
 | Medium run | 60–90 min | Light carbs pre-run, water during |
-| Long run | > 90 min | Carbs pre + GU every 25–30 min during |
+| Long run ≥ 90 min | > 90 min | Carbs pre + GU cada 25 min + SaltStick (protocolo de carrera completo) |
 | Tempo / Intervals | Any | Light carb pre, water during |
-| Long run in heat (Managua) | > 60 min | Pre-hydrate, electrolytes, GU if > 75 min |
-
-> Practice the race fueling protocol (GU every 25 min + SaltStick) on long runs ≥ 90 min
-> during the build phase. Gut training matters for race day execution.
+| Long run en calor (Managua) | > 60 min | Pre-hidratación, electrolitos, GU si > 75 min |
 
 ### Recovery
 
@@ -457,6 +459,11 @@ adaptation. Especially important after quality sessions and long runs.
 ---
 
 ## Changelog
+
+### v1.4.0 (2026-05-10)
+- Protocolo de nutrición confirmado para Granada julio: GU + SaltStick completo incluso con lluvia (Granada julio nunca es frío+mojado como Cartago)
+- Clarificada excepción Cartago: aplica solo si temp <22°C Y lluvia simultánea
+- Agregada nota de gut training: practicar protocolo completo en longs ≥ 90 min desde semana 5
 
 ### v1.3.0 (2026-05-06)
 - Added insomnia baseline note to Recovery Protocol — sleep hours not a standalone deload trigger
