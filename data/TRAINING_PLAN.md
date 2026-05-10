@@ -316,4 +316,100 @@ Si dos o más fallan → convertí la sesión en EASY o descansá.
 
 ---
 
+---
+
+## Programa de Fuerza y Movilidad
+
+**Objetivo secundario:** Reducción de grasa corporal + fortalecimiento de piernas para running sostenible.
+**Todos los eventos están en Intervals.icu y sincronizan a Garmin.**
+
+### Estructura semanal completa
+
+| Día | Running | Gym | Movilidad (casa) |
+|-----|---------|-----|-----------------|
+| Lun | Easy | — | — |
+| Mar | Descanso | — | Yoga/Pilates 20min |
+| Mié | Easy/Strides | **GYM A — Lower Body** | — |
+| Jue | Tempo/VO2max | — | Recovery stretch 15min |
+| Vie | Descanso | **GYM B — Full Body** | — |
+| Sáb | Long run | — | Post long run 20min |
+| Dom | Descanso | **GYM C — Upper Body** | — |
+
+---
+
+### GYM A — Lower Body (Miércoles, post easy run)
+
+| Ejercicio | Base (Sem 1-3) | Fuerza (Sem 5-7) | Potencia (Sem 9-11) |
+|-----------|---------------|------------------|---------------------|
+| Sentadilla con barra | 4×10 @ 65% | 5×5 @ 80-85% | 5×3-4 @ 85-87% explosivo |
+| Hip Thrust con barra | 3×12 | 4×8 | 4×6 explosivo |
+| Single-leg RDL mancuerna | 3×10 c/lado | 3×8 c/lado | 3×8 c/lado |
+| Leg Press | 3×12 | 4×8 | 4×6 explosivo |
+| Leg Curl (máquina) | 3×12 | 3×10 | 3×8 |
+| Calf Raise en máquina | 4×15 | 4×12 | 4×12 |
+| Cable Crunch (polea alta) | 3×15 | 3×12 | 3×12 |
+
+Descanso: 60-90s (Base) → 90-120s (Fuerza) → 2min (Potencia)
+
+---
+
+### GYM B — Full Body (Viernes — sesión más pesada)
+
+| Ejercicio | Base (Sem 1-3) | Fuerza (Sem 5-7) | Potencia (Sem 9-11) |
+|-----------|---------------|------------------|---------------------|
+| Peso muerto con barra | 4×8 @ 65% | 5×4 @ 82-85% | 5×3 @ 87-90% |
+| Pull-up | 4×max | 4×6 con lastre | 4×5 con lastre |
+| Bulgarian Split Squat | 3×10 c/lado | 4×6 c/lado | 4×5 c/lado explosivo |
+| Press de banca | 3×10 | 4×6-8 | 4×5 @ 85% |
+| Cable Row (polea baja) | 3×12 | 3×10 | 3×8 |
+| Hanging Leg Raise | 4×12 | 4×12 | 4×12 |
+
+Descanso: 60-90s (Base) → 90-120s (Fuerza) → 2min (Potencia)
+
+---
+
+### GYM C — Upper Body (Domingo — piernas livianas post long run)
+
+| Ejercicio | Base (Sem 1-3) | Fuerza (Sem 5-7) | Potencia (Sem 9-11) |
+|-----------|---------------|------------------|---------------------|
+| Lat Pulldown | 4×12 | 4×10 | 4×8 |
+| Press inclinado mancuernas | 4×12 | 4×10 | 4×8 |
+| RDL con mancuernas | 3×12 liviano | 3×10 | 3×8 |
+| Face Pull (polea) | 3×15 | 3×15 | 3×15 |
+| Press hombro mancuernas | 3×12 | 3×10 | 3×8 |
+| Tricep Pushdown (polea) | 3×12 | 3×10 | 3×10 |
+| Curl de bíceps mancuernas | 3×12 | 3×10 | 3×10 |
+
+Descanso: 60-90s todo el bloque
+
+---
+
+### Movilidad en casa (15-20 min)
+
+**Martes — Yoga/Pilates general:**
+Cat-cow · Hip flexor stretch · Pigeon pose · Hamstring stretch · Glute bridge · Dead bug · Child's pose
+
+**Jueves — Recovery stretch (post-tempo):**
+Quad stretch · Calf stretch (pared) · Hamstring stretch · Hip flexor lunge · IT band · Forward fold
+
+**Sábado — Post long run:**
+Foam roll pantorrillas + IT band · Calf stretch · Supine hamstring · Figure-4 glute · Pigeon pose · Legs up the wall 3min
+
+---
+
+### Periodización del bloque de fuerza
+
+| Semana | Running | Gym | Carga gym |
+|--------|---------|-----|-----------|
+| 1-3 | Build | BASE | 4×10-12, 65%, 60-90s |
+| 4 | Deload | DELOAD | 2-3 series, 60% |
+| 5-7 | Build | FUERZA | 5×4-6, 80-85%, 90-120s |
+| 8 | Deload + carrera | DELOAD | 2 series, 60% |
+| 9-11 | Peak | POTENCIA | 5×3-5, 85-90%, explosivo |
+| 12 | Taper | TAPER | 2 series liviano |
+
+Race days libres: Jun 28 (La Clásica Managua 10K) · Jul 26 (Granada HM)
+
+---
+
 *Generado por Section 11 AI Coach — Actualizar DOSSIER.md si cambian zonas, FTP, o resultado de carrera.*
