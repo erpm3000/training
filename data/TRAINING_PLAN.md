@@ -81,15 +81,15 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Día | Sesión | Detalle |
 |-----|--------|---------|
 | Lun 11 | EASY 8km | HR 125–145, 5:00–5:15AM |
-| Mar 12 | Descanso | — |
-| Mié 14 | Gym AM + **TEMPO PM** | Gym Legs & Core (mañana). Tarde: 2km WU + 3km@5:05 + 3min rest + 2km@4:55 + 2km CD. Sin el km final a 4:50. |
-| Jue 15 | EASY 7km | HR 125–145 |
-| Vie 16 | Gym Full Body | — |
-| Sáb 17 | LONG 14km | HR 130–148, salida antes de 5:00AM |
-| Dom 18 | Gym Legs & Core (light) | — |
+| Mar 12 | **Gym A — Lower Body** | Sentadilla, hip thrust, leg press. Boliche miércoles noche → gym se mueve a martes. |
+| Mié 13 | **TEMPO** (mañana) | 2km WU + 3km@5:05 + 3min rest + 2km@4:55 + 2km CD. Primera calidad del ciclo. Noche: boliche. |
+| Jue 14 | EASY 7km | HR 125–145 |
+| Vie 15 | **Gym B — Full Body** | Peso muerto, pullup, bulgarian SS |
+| Sáb 16 | LONG 14km | HR 130–148, salida antes de 5:00AM |
+| Dom 17 | **Gym C — Upper Body** | — |
 **Est. volumen running:** ~38km
 
-> **Nota semana 2:** El Tempo es la primera calidad — día 32 post-maratón. Si llegás al miércoles
+> **Nota semana 2:** El Tempo es la primera calidad — día 33 post-maratón. Si llegás al miércoles
 > con Feel ≥ 4 o HRV↓ >15%, convertí la sesión en un EASY de 8km y mové calidad a la semana 3.
 
 ---
