@@ -80,8 +80,8 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 #### Semana 2 — May 11–17 (RUNNA MODIFICADO — OPCIÓN A)
 | Día | Sesión | Detalle |
 |-----|--------|---------|
-| Lun 11 | EASY 8km | HR 125–145, 5:00–5:15AM |
-| Mar 12 | **Gym A — Lower Body** | Sentadilla, hip thrust, leg press. Boliche miércoles noche → gym se mueve a martes. |
+| ~~Lun 11~~ | ~~EASY 8km~~ | Saltado — movido al martes |
+| Mar 12 | ✅ **EASY 8km** + **Gym A — Lower Body** | Run hecho: 8.01km, 142 avg HR, 29.6°C, TSS 41. Gym tarde. |
 | Mié 13 | **TEMPO** (mañana) | 2km WU + 3km@5:05 + 3min rest + 2km@4:55 + 2km CD. Primera calidad del ciclo. Noche: boliche. |
 | Jue 14 | EASY 7km | HR 125–145 |
 | Vie 15 | **Gym B — Full Body** | Peso muerto, pullup, bulgarian SS |
