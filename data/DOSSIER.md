@@ -1,6 +1,6 @@
 # Athlete Training Dossier & Performance Roadmap
 
-**Dossier Version:** v1.2.0
+**Dossier Version:** v1.5.0
 **Protocol Compatibility:** Section 11 v11.6+
 **Date:** 2026-05-03
 **Primary Source Systems:** Intervals.icu | Garmin | Runna
@@ -396,7 +396,36 @@ adaptation. Especially important after quality sessions and long runs.
 
 ---
 
-## 8. Operational & Data Integrity Log
+## 8. Biomechanics & Running Form
+
+### Source
+RunFit analysis — March 2025 (STT Systems + Dra. Calero clinical assessment)
+Status as of May 2026: ankle issue resolved via physio; crossover partially addressed via line drill.
+
+### Current Findings
+
+| Finding | Severity | Current Status | Action in plan |
+|---------|----------|----------------|----------------|
+| Crossover (-75mm R / -112mm L) | Medium | Partially improved (line drill done ~2025) | Line drill 2-3 min in warm-up every 2-3 weeks on tempo days |
+| Pelvic instability (oblicuidad 6°R / 1°L) | Medium | Unknown — no recent assessment | GYM A (Lower Body) covers glúteos + abductores ✅ |
+| Anterior trunk lean 13° | Low-medium | Unknown | Monitor — may improve with strength build |
+| Cadencia 163 spm (marzo 2025) | Medium | **Mejorada** (confirmado por atleta) | Verificar datos <6:00/km en próxima sesión |
+| Tobillo derecho débil (especialmente en velocidad) | High (March 2025) | **Resuelto** — fisioterapia completada | No acción requerida |
+| Inestabilidad rodilla derecha (varo + compensación) | Medium | Linked to pelvic/ankle chain — monitor | Strength work covers this indirectly |
+
+### Priority Actions (2026 build)
+
+1. **Crossover** — Add 2-3 min de drill de línea media como warm-up en días de tempo (no requiere sesión separada)
+2. **Cadencia** — Ya mejorada; confirmar rango en esfuerzos de ritmo (<6:00/km) con datos reales
+3. **Pelvis/glúteos** — Cubierto por GYM A semanas 1-3+; observar asimetría lateral en fatiga de longs
+
+### What NOT to change
+RunFit recommended full biomechanical work-up post-build. No need to re-test before Granada —
+maintain current corrective work within existing schedule. Consider reassessment after July race.
+
+---
+
+## 9. Operational & Data Integrity Log
 
 ### Training Timeline & Event Log
 
@@ -459,6 +488,12 @@ adaptation. Especially important after quality sessions and long runs.
 ---
 
 ## Changelog
+
+### v1.5.0 (2026-05-12)
+- Added Section 8: Biomechanics & Running Form (from RunFit March 2025)
+- Ankle resolved via physio; crossover partially addressed via line drill
+- Cadencia mejorada (auto-confirmado atleta) — verificar con datos <6:00/km
+- Pelvic instability covered by GYM A; crossover drill added to tempo warm-up
 
 ### v1.4.0 (2026-05-10)
 - Protocolo de nutrición confirmado para Granada julio: GU + SaltStick completo incluso con lluvia (Granada julio nunca es frío+mojado como Cartago)
