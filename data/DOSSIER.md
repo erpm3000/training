@@ -1,6 +1,6 @@
 # Athlete Training Dossier & Performance Roadmap
 
-**Dossier Version:** v1.5.0
+**Dossier Version:** v1.6.0
 **Protocol Compatibility:** Section 11 v11.6+
 **Date:** 2026-05-03
 **Primary Source Systems:** Intervals.icu | Garmin | Runna
@@ -175,25 +175,34 @@ with HRV ↓ >20% and/or RHR ↑ ≥5 bpm above baseline — combined signals on
 
 ### Running HR Zones (Garmin Lactate Threshold Model)
 
-Zones based on **LTHR = 171 bpm** (Garmin, confirmed by athlete).
+Zones based on **LTHR = 175 bpm** (Garmin auto-detect post-TEMPO 2026-05-13 — pending confirmation).
+Previous LTHR: 171 bpm (May 2026-05-03) → 173 bpm → 175 bpm. Trend upward, consistent with fitness build.
 Use HR, not pace, for effort control in Managua (hilly terrain).
 
 | Zone | % of LTHR | HR Range (bpm) | Purpose |
 |------|-----------|----------------|---------|
-| Z1 | 66–80% | 113–137 | Active recovery / very easy |
-| Z2 | 80–88% | 137–151 | Aerobic endurance — easy + long runs |
-| Z3 | 88–95% | 150–162 | Tempo / gray zone — **minimize on easy days** |
-| Z4 | 95–101% | 162–173 | Threshold — key workout zone |
-| Z5 | >101% | >173 | VO₂max / hard intervals |
+| Z1 | 66–80% | 116–140 | Active recovery / very easy |
+| Z2 | 80–88% | 140–154 | Aerobic endurance — easy + long runs |
+| Z3 | 88–95% | 154–166 | Tempo / gray zone — **minimize on easy days** |
+| Z4 | 95–101% | 166–177 | Threshold — key workout zone |
+| Z5 | >101% | >177 | VO₂max / hard intervals |
 
-**Max HR:** 192 bpm
-**LTHR:** 171 bpm (Garmin running lactate threshold)
-**Easy/long run cruise target:** 137–145 bpm (lower half of Z2) — not the Z2 ceiling
-**Z2 ceiling:** 151 bpm — acceptable on hill climbs; recover to Z1–Z2 on flats
+**Max HR:** 193 bpm (Garmin auto-updated 2026-05-13; previous: 191)
+**LTHR:** 175 bpm (Garmin auto-detect 2026-05-13; to confirm with dedicated test)
+**Easy/long run cruise target:** 140–148 bpm (lower half of Z2) — not the Z2 ceiling
+**Z2 ceiling:** 154 bpm — acceptable on hill climbs; recover to Z1–Z2 on flats
 
-> Managua hill rule: HR will push into Z3 (150–162) on uphills — that is expected and OK.
+> Managua hill rule: HR will push into Z3 (154–166) on uphills — that is expected and OK.
 > What matters is average HR for the run stays in Z2, and flat/downhill segments recover.
 > Do NOT force a pace to stay below Z2 ceiling — walk uphills if needed on easy days.
+>
+> **Easy run pace range (Managua):** 6:30–10:00/km is the real operating range.
+> The opening km is always uphill → pace naturally goes above 8:00/km to keep HR controlled.
+> Garmin pace alert should be set to 6:30–10:00 min/km for easy runs — not 6:30–8:00.
+> Pace is NOT the effort signal on Managua hills. HR is. Ignore pace alarm on uphills.
+>
+> **Cadencia confirmada (2026-05-13 TEMPO):** Rep1 170 spm / Rep2 172 spm.
+> Mejora vs RunFit marzo 2025 (163 spm). Monitorear que se mantenga en ritmos de calidad.
 >
 > Key signal from race history: Aug 2024 PR was run at Z1–Z2 effort. Aerobic base is
 > strong. Hard days hard, easy days genuinely easy — this is the system.
@@ -488,6 +497,13 @@ maintain current corrective work within existing schedule. Consider reassessment
 ---
 
 ## Changelog
+
+### v1.6.0 (2026-05-13)
+- LTHR updated: 171 → 175 bpm (Garmin auto-detect post-TEMPO; pending confirmation)
+- Max HR updated: 191 → 193 bpm (Garmin auto-updated)
+- HR zones recalculated with LTHR 175 (Z2 ceiling: 151→154; easy cruise: 140–148)
+- Easy run pace range clarified: 6:30–10:00/km for Managua hills (not 6:30–8:00)
+- Cadencia confirmada: 170/172 spm en reps de calidad (vs 163 RunFit Mar 2025)
 
 ### v1.5.0 (2026-05-12)
 - Added Section 8: Biomechanics & Running Form (from RunFit March 2025)
