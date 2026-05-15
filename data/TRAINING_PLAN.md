@@ -84,7 +84,7 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Mar 12 | ✅ **EASY 8km** + **Gym A — Lower Body** | Run hecho: 8.01km, 142 avg HR, 29.6°C, TSS 41. Gym tarde. |
 | Mié 13 | **TEMPO** (mañana) | 2km WU + 3km@5:05 + 3min rest + 2km@4:55 + 2km CD. Primera calidad del ciclo. Noche: boliche. |
 | ~~Jue 14~~ | ~~EASY 7km~~ — **SALTADO** (boliche mié noche + ~5 cervezas → HRV −19%, RI 0.78, sleep WORST) | Pádel torneo noche: según cómo se sientan las piernas. |
-| Vie 15 | **Gym B — Full Body** | Verificar RI + piernas al despertar — pádel noche anterior. Si cansado, reducir volumen 20%. |
+| ~~Vie 15~~ | ~~Gym B~~ — **DESCANSO** | HRV −35%, RI 0.61, sleep 4.31h WORST — pádel pesado + alcohol acumulado. Gym B cancelado. Prioridad: recuperar para LONG sáb. |
 | Sáb 16 | LONG 14km | HR 130–148, salida antes de 5:00AM |
 | Dom 17 | **Gym C — Upper Body** | — |
 **Est. volumen running:** ~38km
