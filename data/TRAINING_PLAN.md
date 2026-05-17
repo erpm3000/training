@@ -115,14 +115,14 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 ---
 
 #### Semana 4 — May 25–31
-> 🎳 Boliche: **Mié 27** — calidad se mueve a jueves (+1 día). Chequeá RI antes de salir.
+> 🎳 Boliche: **Mié 27** — calidad el martes (día antes, descansado). Jueves es el día malo post-boliche.
 
 | Día | Sesión | Detalle |
 |-----|--------|---------|
 | Lun 25 | EASY 7km | HR 125–145 |
-| Mar 26 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. |
-| Mié 27 | EASY 7km | HR 125–145. **Boliche noche — máx 2 cervezas.** |
-| **Jue 28** | **TEMPO** | 2km WU + **2×15min@4:50** (5:00 caminando entre reps) + 2km CD. Total ~9.5km. Solo si RI ≥ 0.8. Si no, EASY 7km. |
+| **Mar 26** | **TEMPO** | 2km WU + **2×15min@4:50** (5:00 caminando entre reps) + 2km CD. Total ~9.5km. |
+| Mié 27 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. **Boliche noche — máx 2 cervezas.** |
+| Jue 28 | Descanso o EASY muy suave | Mal sueño post-boliche — no forzar. |
 | Vie 29 | **Gym B — Full Body** | — |
 | Sáb 30 | LONG 16km | HR 130–148, salida 4:45AM |
 | Dom 31 | **Gym C — Upper Body** | — |
@@ -169,14 +169,14 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 ---
 
 #### Semana 7 — Jun 15–21 (PICO DE VOLUMEN)
-> 🎳 Boliche: **Mié 17** — calidad se mueve a jueves (+1 día). Chequeá RI antes de salir.
+> 🎳 Boliche: **Mié 17** — calidad el martes (día antes, descansado). Jueves es el día malo post-boliche.
 
 | Día | Sesión | Detalle |
 |-----|--------|---------|
 | Lun 15 | EASY 8km | HR 125–145 |
-| Mar 16 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. |
-| Mié 17 | EASY 9km | HR 125–145. **Boliche noche — máx 2 cervezas.** |
-| **Jue 18** | **HM-PACE** | 2km WU + **3×3km@5:05** (3:00 caminando entre reps) + 2km CD. Total ~13km. Solo si RI ≥ 0.8. Si no, EASY 8km y mové el HM-PACE al sábado (eliminar FF-LONG). |
+| **Mar 16** | **HM-PACE** | 2km WU + **3×3km@5:05** (3:00 caminando entre reps) + 2km CD. Total ~13km. |
+| Mié 17 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. **Boliche noche — máx 2 cervezas.** |
+| Jue 18 | Descanso o EASY muy suave | Mal sueño post-boliche — no forzar. |
 | Vie 19 | **Gym B — Full Body** | — |
 | Sáb 20 | **FF-LONG 19km** | 14km@HR 130–148, últimos 5km@5:13. Salida 4:30AM. Llevar 2 geles. |
 | Dom 21 | **Gym C — Upper Body** | — |
@@ -349,7 +349,7 @@ Si dos o más fallan → convertí la sesión en EASY o descansá.
 | Sáb | Long run | — | Post long run 20min |
 | Dom | Descanso | **GYM C — Upper Body** | — |
 
-> **Regla de calidad:** La sesión de calidad (TEMPO/VO2MAX/HM-PACE) va **2 días después del boliche**. Si boliche es lunes → calidad miércoles. Si boliche es martes → calidad jueves. Si boliche es miércoles → calidad jueves (chequeá RI primero). Sin boliche → calidad martes.
+> **Regla de calidad:** La noche de boliche = mal sueño → el día SIGUIENTE es el malo. Calidad siempre 2 días después del boliche. Si boliche es lunes → calidad miércoles. Si boliche es martes → calidad jueves. Si boliche es miércoles → calidad el **martes** (día ANTES, descansado) porque el jueves siguiente sería el día malo. Sin boliche → calidad martes.
 > **Gym A** apilado con un easy run el día anterior o el mismo día (run mañana, gym 4:30PM). En semanas con boliche martes, el gym va el lunes.
 > **Regla alcohol boliche:** máximo 2 cervezas. Cero alcohol la noche anterior a calidad o long run.
 
