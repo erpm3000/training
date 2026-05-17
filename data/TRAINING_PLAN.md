@@ -115,12 +115,14 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 ---
 
 #### Semana 4 — May 25–31
+> 🎳 Boliche: **Mié 27** — calidad se mueve a jueves (+1 día). Chequeá RI antes de salir.
+
 | Día | Sesión | Detalle |
 |-----|--------|---------|
-| Lun 25 | EASY 7km | HR 125–145. Boliche noche — máximo 2 cervezas. |
-| Mar 26 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym tarde. |
-| **Mié 27** | **TEMPO** | 2km WU + **2×15min@4:50** (5:00 caminando entre reps) + 2km CD. Total ~9.5km. |
-| Jue 28 | EASY 9km | HR 125–145 |
+| Lun 25 | EASY 7km | HR 125–145 |
+| Mar 26 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. |
+| Mié 27 | EASY 7km | HR 125–145. **Boliche noche — máx 2 cervezas.** |
+| **Jue 28** | **TEMPO** | 2km WU + **2×15min@4:50** (5:00 caminando entre reps) + 2km CD. Total ~9.5km. Solo si RI ≥ 0.8. Si no, EASY 7km. |
 | Vie 29 | **Gym B — Full Body** | — |
 | Sáb 30 | LONG 16km | HR 130–148, salida 4:45AM |
 | Dom 31 | **Gym C — Upper Body** | — |
@@ -129,12 +131,14 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 ---
 
 #### Semana 5 — Jun 1–7
+> 🎳 Boliche: **Mar 2** — calidad se mueve a jueves (+2 días ✅). Gym A el martes (gym 4:30PM + boliche noche está bien).
+
 | Día | Sesión | Detalle |
 |-----|--------|---------|
 | Lun 1 | EASY 8km + STRIDES | 6×20s al final |
-| Mar 2 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym tarde. |
-| **Mié 3** | **TEMPO** | 2km WU + **3×12min@4:50** (3:00 entre reps) + 2km CD. Total ~10.5km. |
-| Jue 4 | EASY 10km | HR 125–145 |
+| Mar 2 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. **Boliche noche — máx 2 cervezas.** |
+| Mié 3 | EASY 8km | HR 125–145 |
+| **Jue 4** | **TEMPO** | 2km WU + **3×12min@4:50** (3:00 entre reps) + 2km CD. Total ~10.5km. |
 | Vie 5 | **Gym B — Full Body** | — |
 | Sáb 6 | LONG 17km | HR 130–148, salida 4:45AM. Últimos 2km puedes permitir drift a 153. |
 | Dom 7 | **Gym C — Upper Body** | — |
@@ -149,12 +153,14 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 ---
 
 #### Semana 6 — Jun 8–14
+> 🎳 Boliche: **Mar 9** — calidad se mueve a jueves (+2 días ✅). Gym A el martes con el easy.
+
 | Día | Sesión | Detalle |
 |-----|--------|---------|
 | Lun 8 | EASY 7km | HR 125–145 |
-| Mar 9 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym tarde. |
-| **Mié 10** | **VO2MAX** | 2km WU + **5×1km@4:15–4:20** (90s caminando entre reps) + 2km CD. Total ~9km. |
-| Jue 11 | EASY 8km + STRIDES | 6×20s al final |
+| Mar 9 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. **Boliche noche — máx 2 cervezas.** |
+| Mié 10 | EASY 8km + STRIDES | 6×20s al final |
+| **Jue 11** | **VO2MAX** | 2km WU + **5×1km@4:15–4:20** (90s caminando entre reps) + 2km CD. Total ~9km. |
 | Vie 12 | **Gym B — Full Body** | — |
 | Sáb 13 | **FF-LONG 18km** | 15km@HR 130–148, últimos 3km@5:05–5:10 (ritmo de carrera aprox). Salida 4:30AM. |
 | Dom 14 | **Gym C — Upper Body** | — |
@@ -163,12 +169,14 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 ---
 
 #### Semana 7 — Jun 15–21 (PICO DE VOLUMEN)
+> 🎳 Boliche: **Mié 17** — calidad se mueve a jueves (+1 día). Chequeá RI antes de salir.
+
 | Día | Sesión | Detalle |
 |-----|--------|---------|
 | Lun 15 | EASY 8km | HR 125–145 |
-| Mar 16 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym tarde. |
-| **Mié 17** | **HM-PACE** | 2km WU + **3×3km@5:05** (3:00 caminando entre reps) + 2km CD. Total ~13km. |
-| Jue 18 | EASY 9km | HR 125–145 |
+| Mar 16 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. |
+| Mié 17 | EASY 9km | HR 125–145. **Boliche noche — máx 2 cervezas.** |
+| **Jue 18** | **HM-PACE** | 2km WU + **3×3km@5:05** (3:00 caminando entre reps) + 2km CD. Total ~13km. Solo si RI ≥ 0.8. Si no, EASY 8km y mové el HM-PACE al sábado (eliminar FF-LONG). |
 | Vie 19 | **Gym B — Full Body** | — |
 | Sáb 20 | **FF-LONG 19km** | 14km@HR 130–148, últimos 5km@5:13. Salida 4:30AM. Llevar 2 geles. |
 | Dom 21 | **Gym C — Upper Body** | — |
@@ -185,15 +193,17 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 ---
 
 #### Semana 8 — Jun 22–28 (DELOAD)
+> Sin boliche esta semana — calidad va el martes.
+
 | Día | Sesión | Detalle |
 |-----|--------|---------|
-| Lun 22 | EASY 6km | HR 125–140. Muy suave. |
-| Mar 23 | EASY 5km + **Gym A — Lower Body (ligero)** | Run suave mañana, gym tarde 60% carga. |
-| **Mié 24** | **TEMPO light** | 2km WU + **2×10min@4:50** (5:00 entre reps) + 2km CD. Total ~7km. |
-| Jue 25 | EASY 7km | HR 125–140 |
+| Lun 22 | EASY 6km + **Gym A — Lower Body (ligero)** | Run mañana, gym 4:30PM. 60% carga. |
+| **Mar 23** | **TEMPO light** | 2km WU + **2×10min@4:50** (5:00 entre reps) + 2km CD. Total ~7km. |
+| Mié 24 | EASY 7km | HR 125–140 |
+| Jue 25 | EASY 6km | HR 125–140. Muy suave. |
 | Vie 26 | **Gym B — Full Body (ligero)** | 60% carga, sin fatiga. |
 | Sáb 27 | EASY 8km | HR 125–140. Suave. Piernas frescas para la carrera. ~~LONG 13km eliminado~~ |
-| **Dom 28** | **🏁 CARRERA — La Clásica Managua 10K** | Salida 5:00AM. El Establo, Managua. 137m D+. **Objetivo: esfuerzo controlado — GAP pace, sin tiempo**. Terreno muy técnico (137m D+), subidas no permiten pace real <5:00. Estrategia: correr por HR (cap 175), mirar GAP en Garmin no pace real. |
+| **Dom 28** | **🏁 CARRERA — La Clásica Managua 10K** | Salida 5:00AM. El Establo, Managua. 137m D+. **Objetivo: máximo esfuerzo sostenible. Meta orientativa: sub-55 min.** HR cap 175–178 en subidas, recuperar en bajadas y planos. Mirá el GAP promedio al terminar — eso dice la verdad en este terreno. |
 **Est. volumen running:** ~28km (+ 10K de carrera = ~38km total)
 
 ---
@@ -222,12 +232,14 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 ---
 
 #### Semana 10 — Jul 6–12
+> 🎳 Boliche: **Mar 7** — calidad se mueve a jueves (+2 días ✅).
+
 | Día | Sesión | Detalle |
 |-----|--------|---------|
-| Lun 6 | EASY 7km | HR 125–145 |
-| Mar 7 | EASY 6km + **Gym A — Lower Body** | Run mañana, gym tarde. |
-| **Mié 8** | **HM-PACE (confianza)** | 2km WU + **2×5km@5:05** (3:00 entre reps) + 2km CD. Total ~14km. |
-| Jue 9 | EASY 6km | Muy fácil, recuperación activa |
+| Lun 6 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. |
+| Mar 7 | EASY 6km | HR 125–145. **Boliche noche — máx 2 cervezas.** |
+| Mié 8 | EASY 6km | HR 125–145 |
+| **Jue 9** | **HM-PACE (confianza)** | 2km WU + **2×5km@5:05** (3:00 entre reps) + 2km CD. Total ~14km. |
 | Vie 10 | **Gym B — Full Body (moderado)** | — |
 | Sáb 11 | **FF-LONG 16km** | 10km easy + 6km@5:13 |
 | Dom 12 | **Gym C — Upper Body** | — |
@@ -242,11 +254,13 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 ---
 
 #### Semana 11 — Jul 13–19
+> Sin boliche esta semana (taper) — calidad va el martes.
+
 | Día | Sesión | Detalle |
 |-----|--------|---------|
 | Lun 13 | EASY 6km | HR 125–140 |
-| Mar 14 | EASY 5km + **Gym A — Lower Body (muy ligero)** | Run suave mañana, gym movilidad tarde. |
-| **Mié 15** | **Sharpening** | 2km WU + **3×1km@4:15** (2:00 entre reps) + 2km CD. Total ~7km. Piernas rápidas, no te destruyas. |
+| **Mar 14** | **Sharpening** | 2km WU + **3×1km@4:15** (2:00 entre reps) + 2km CD. Total ~7km. Piernas rápidas, no te destruyas. |
+| Mié 15 | EASY 5km + **Gym A — muy ligero (movilidad)** | Run suave mañana, gym movilidad 4:30PM. |
 | Jue 16 | EASY 5km | Completamente conversacional |
 | Vie 17 | Descanso | — |
 | Sáb 18 | LONG 12km | 10km easy + 2km@5:13 (check de confianza). Salida 5:00AM. |
@@ -335,7 +349,8 @@ Si dos o más fallan → convertí la sesión en EASY o descansá.
 | Sáb | Long run | — | Post long run 20min |
 | Dom | Descanso | **GYM C — Upper Body** | — |
 
-> **Nota estructura:** Boliche los lunes por la noche → martes con sueño reducido → calidad siempre el miércoles cuando el cuerpo ya recuperó. Gym A apilado con el easy del martes (mañana run, tarde gym).
+> **Regla de calidad:** La sesión de calidad (TEMPO/VO2MAX/HM-PACE) va **2 días después del boliche**. Si boliche es lunes → calidad miércoles. Si boliche es martes → calidad jueves. Si boliche es miércoles → calidad jueves (chequeá RI primero). Sin boliche → calidad martes.
+> **Gym A** apilado con un easy run el día anterior o el mismo día (run mañana, gym 4:30PM). En semanas con boliche martes, el gym va el lunes.
 > **Regla alcohol boliche:** máximo 2 cervezas. Cero alcohol la noche anterior a calidad o long run.
 
 ---
