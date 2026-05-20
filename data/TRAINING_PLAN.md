@@ -28,8 +28,8 @@ Está construido sobre la base aeróbica del Maratón de Cartago (12 de abril) y
 | VO2MAX | Intervalos de alta intensidad | 4:00–4:30/km. Series cortas, recuperación completa entre ellas. |
 | FF-LONG | Long run con final rápido | Carrera larga con últimos 3–5km a ritmo de carrera (5:13/km). |
 
-**Warm-up (WU) estándar:** 10–15 min muy fácil antes de cualquier sesión de calidad.
-**Cool-down (CD) estándar:** 10 min muy fácil al terminar sesiones de calidad.
+**Warm-up (WU) estándar:** 8 min muy fácil + 2–3 strides de 20seg a ritmo de sesión (recuperación completa entre cada uno). Activa neuromuscular sin acumular fatiga.
+**Cool-down (CD) estándar:** 5 min muy fácil. Mínimo para bajar HR antes de parar. No salir a caminar directo de una sesión de calidad.
 
 ---
 
@@ -82,7 +82,7 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 |-----|--------|---------|
 | ~~Lun 11~~ | ~~EASY 8km~~ | Saltado — movido al martes |
 | Mar 12 | ✅ **EASY 8km** + **Gym A — Lower Body** | Run hecho: 8.01km, 142 avg HR, 29.6°C, TSS 41. Gym tarde. |
-| Mié 13 | **TEMPO** (mañana) | 2km WU + 3km@5:05 + 3min rest + 2km@4:55 + 2km CD. Primera calidad del ciclo. Noche: boliche. |
+| Mié 13 | **TEMPO** (mañana) | 8min WU+strides + 3km@5:05 + 3min rest + 2km@4:55 + 5min CD. Primera calidad del ciclo. Noche: boliche. |
 | ~~Jue 14~~ | ~~EASY 7km~~ — **SALTADO** (boliche mié noche + ~5 cervezas → HRV −19%, RI 0.78, sleep WORST) | Pádel torneo noche: según cómo se sientan las piernas. |
 | ~~Vie 15~~ | ~~Gym B~~ — **DESCANSO** | HRV −35%, RI 0.61, sleep 4.31h WORST — pádel pesado + ~8 cervezas jue noche. Gym B cancelado. Prioridad: recuperar para LONG sáb. |
 | ~~Sáb 16~~ | ~~LONG 14km~~ — **SALTADO** | Gira fuera, no fue posible. |
@@ -105,7 +105,7 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 |-----|--------|---------|
 | Lun 18 | EASY 7km | HR 125–145. Boliche noche — máximo 2 cervezas. |
 | Mar 19 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym tarde. |
-| **Mié 20** | **TEMPO** | 2km WU + **3×10min@4:50** (3:00 caminando entre reps) + 2km CD. Total ~9km. |
+| **Mié 20** | **TEMPO** | 8min WU+strides + **3×10min@4:50** (3:00 caminando entre reps) + 5min CD. Total ~9km. |
 | Jue 21 | EASY 8km | HR 125–145 |
 | Vie 22 | **Gym B — Full Body** | — |
 | Sáb 23 | **LONG 14km** | HR 130–148, salida 4:45AM |
@@ -120,7 +120,7 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Día | Sesión | Detalle |
 |-----|--------|---------|
 | Lun 25 | EASY 7km | HR 125–145 |
-| **Mar 26** | **TEMPO** | 2km WU + **2×15min@4:50** (5:00 caminando entre reps) + 2km CD. Total ~9.5km. |
+| **Mar 26** | **TEMPO** | 8min WU+strides + **2×15min@4:50** (5:00 caminando entre reps) + 5min CD. Total ~9.5km. |
 | Mié 27 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. **Boliche noche — máx 2 cervezas.** |
 | Jue 28 | Descanso o EASY muy suave | Mal sueño post-boliche — no forzar. |
 | Vie 29 | **Gym B — Full Body** | — |
@@ -138,7 +138,7 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Lun 1 | EASY 8km + STRIDES | 6×20s al final |
 | Mar 2 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. **Boliche noche — máx 2 cervezas.** |
 | Mié 3 | EASY 8km | HR 125–145 |
-| **Jue 4** | **TEMPO** | 2km WU + **3×12min@4:50** (3:00 entre reps) + 2km CD. Total ~10.5km. |
+| **Jue 4** | **TEMPO** | 8min WU+strides + **3×12min@4:50** (3:00 entre reps) + 5min CD. Total ~10.5km. |
 | Vie 5 | **Gym B — Full Body** | — |
 | Sáb 6 | LONG 17km | HR 130–148, salida 4:45AM. Últimos 2km puedes permitir drift a 153. |
 | Dom 7 | **Gym C — Upper Body** | — |
@@ -160,7 +160,7 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Lun 8 | EASY 7km | HR 125–145 |
 | Mar 9 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. **Boliche noche — máx 2 cervezas.** |
 | Mié 10 | EASY 8km + STRIDES | 6×20s al final |
-| **Jue 11** | **VO2MAX** | 2km WU + **5×1km@4:15–4:20** (90s caminando entre reps) + 2km CD. Total ~9km. |
+| **Jue 11** | **VO2MAX** | 8min WU+strides + **5×1km@4:15–4:20** (90s caminando entre reps) + 5min CD. Total ~9km. |
 | Vie 12 | **Gym B — Full Body** | — |
 | Sáb 13 | **FF-LONG 18km** | 15km@HR 130–148, últimos 3km@5:05–5:10 (ritmo de carrera aprox). Salida 4:30AM. |
 | Dom 14 | **Gym C — Upper Body** | — |
@@ -174,7 +174,7 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Día | Sesión | Detalle |
 |-----|--------|---------|
 | Lun 15 | EASY 8km | HR 125–145 |
-| **Mar 16** | **HM-PACE** | 2km WU + **3×3km@5:05** (3:00 caminando entre reps) + 2km CD. Total ~13km. |
+| **Mar 16** | **HM-PACE** | 8min WU+strides + **3×3km@5:05** (3:00 caminando entre reps) + 5min CD. Total ~13km. |
 | Mié 17 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. **Boliche noche — máx 2 cervezas.** |
 | Jue 18 | Descanso o EASY muy suave | Mal sueño post-boliche — no forzar. |
 | Vie 19 | **Gym B — Full Body** | — |
@@ -198,7 +198,7 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Día | Sesión | Detalle |
 |-----|--------|---------|
 | Lun 22 | EASY 6km + **Gym A — Lower Body (ligero)** | Run mañana, gym 4:30PM. 60% carga. |
-| **Mar 23** | **TEMPO light** | 2km WU + **2×10min@4:50** (5:00 entre reps) + 2km CD. Total ~7km. |
+| **Mar 23** | **TEMPO light** | 8min WU+strides + **2×10min@4:50** (5:00 entre reps) + 5min CD. Total ~7km. |
 | Mié 24 | EASY 7km | HR 125–140 |
 | Jue 25 | EASY 6km | HR 125–140. Muy suave. |
 | Vie 26 | **Gym B — Full Body (ligero)** | 60% carga, sin fatiga. |
@@ -219,10 +219,10 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 |-----|--------|---------|
 | Lun 29 | EASY 8km + STRIDES | 6×20s al final |
 | Mar 30 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym tarde. |
-| **Mié 1** | **VO2MAX (sharpening)** | 2km WU + **6×1km@4:15** (90s caminando) + 2km CD. Total ~10km. |
+| **Mié 1** | **VO2MAX (sharpening)** | 8min WU+strides + **6×1km@4:15** (90s caminando) + 5min CD. Total ~10km. |
 | Jue 2 | EASY 8km | HR 125–145 |
 | Vie 3 | **Gym B — Full Body** | — |
-| Sáb 4 | **RACE-SPECIFIC LONG 18km** | 2km WU easy + **12km@5:05–5:13** + 4km CD easy. Llevar 3 geles (protocolo de carrera). Salida 4:30AM. |
+| Sáb 4 | **RACE-SPECIFIC LONG 18km** | 8min WU+strides easy + **12km@5:05–5:13** + 4km CD easy. Llevar 3 geles (protocolo de carrera). Salida 4:30AM. |
 | Dom 5 | **Gym C — Upper Body** | — |
 **Est. volumen running:** ~44km
 
@@ -239,7 +239,7 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Lun 6 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. |
 | Mar 7 | EASY 6km | HR 125–145. **Boliche noche — máx 2 cervezas.** |
 | Mié 8 | EASY 6km | HR 125–145 |
-| **Jue 9** | **HM-PACE (confianza)** | 2km WU + **2×5km@5:05** (3:00 entre reps) + 2km CD. Total ~14km. |
+| **Jue 9** | **HM-PACE (confianza)** | 8min WU+strides + **2×5km@5:05** (3:00 entre reps) + 5min CD. Total ~14km. |
 | Vie 10 | **Gym B — Full Body (moderado)** | — |
 | Sáb 11 | **FF-LONG 16km** | 10km easy + 6km@5:13 |
 | Dom 12 | **Gym C — Upper Body** | — |
@@ -259,7 +259,7 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Día | Sesión | Detalle |
 |-----|--------|---------|
 | Lun 13 | EASY 6km | HR 125–140 |
-| **Mar 14** | **Sharpening** | 2km WU + **3×1km@4:15** (2:00 entre reps) + 2km CD. Total ~7km. Piernas rápidas, no te destruyas. |
+| **Mar 14** | **Sharpening** | 8min WU+strides + **3×1km@4:15** (2:00 entre reps) + 5min CD. Total ~7km. Piernas rápidas, no te destruyas. |
 | Mié 15 | EASY 5km + **Gym A — muy ligero (movilidad)** | Run suave mañana, gym movilidad 4:30PM. |
 | Jue 16 | EASY 5km | Completamente conversacional |
 | Vie 17 | Descanso | — |
