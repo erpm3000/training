@@ -1,7 +1,9 @@
-# Plan de Entrenamiento — Sub-1:50 Granada
+# Plan de Entrenamiento — Granada HM (AJUSTADO 2026-06-16)
 **Athlete:** Ernesto | **Race:** Medio Maratón de Granada | **Date:** 2026-07-26
 **Generated:** 2026-05-06 | **Protocol:** Section 11 v11.43
-**Goal A:** Sub-1:50:00 (5:13/km) | **Goal B (contingency):** Sub-1:53:00
+**Goal A:** Sub-1:53-1:55 (5:22-5:26/km) | **Goal B (stretch):** Sub-1:52 si Clásica ≤55min y pulmones recuperados al 100%
+
+> **Ajuste 2026-06-16:** Meta original 1:50 suspendida. Post-influenza con hiperreactividad bronquial (Jun 5–16): 3 sesiones de calidad abortadas/reducidas, effort_response negativo sostenido, HRRc por debajo del baseline. Todos los ritmos de calidad reducidos ~12-16 seg/km. VO2max Jun 30 se mantiene @ 4:15/km. La Clásica 10K (Jun 28) es el checkpoint diagnóstico.
 
 ---
 
@@ -24,9 +26,9 @@ Está construido sobre la base aeróbica del Maratón de Cartago (12 de abril) y
 | LONG | Carrera larga | HR 130–148 avg. Permitir drift a 153 solo en últimos 3km. |
 | STRIDES | Aceleraciones | 6–8 × 20s a ~4:00/km, totalmente suelto, caminata de regreso completa. Después de un EASY. |
 | TEMPO | Umbral lactato | 4:50/km (LT2 confirmado). Descanso caminando entre repeticiones. |
-| HM-PACE | Ritmo de carrera | 5:05–5:13/km. Esfuerzo sostenido pero controlable. |
+| HM-PACE | Ritmo de carrera | **5:18–5:22/km (AJUSTADO)**. Esfuerzo sostenido pero controlable. |
 | VO2MAX | Intervalos de alta intensidad | 4:00–4:30/km. Series cortas, recuperación completa entre ellas. |
-| FF-LONG | Long run con final rápido | Carrera larga con últimos 3–5km a ritmo de carrera (5:13/km). |
+| FF-LONG | Long run con final rápido | Carrera larga con últimos 3–6km a ritmo de carrera (**5:20–5:25/km AJUSTADO**). |
 
 **Warm-up (WU) estándar:** 8 min muy fácil + 2–3 strides de 20seg a ritmo de sesión (recuperación completa entre cada uno). Activa neuromuscular sin acumular fatiga.
 **Cool-down (CD) estándar:** 5 min muy fácil. Mínimo para bajar HR antes de parar. No salir a caminar directo de una sesión de calidad.
@@ -174,11 +176,11 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Día | Sesión | Detalle |
 |-----|--------|---------|
 | Lun 15 | EASY 8km | HR 125–145 |
-| **Mar 16** | **HM-PACE** | 8min WU+strides + **3×3km@5:05** (3:00 caminando entre reps) + 5min CD. Total ~13km. |
+| **Mar 16** | **HM-PACE ✅ HECHO** | 2×2km + 1km completados (pulmones limitantes). Plan ajustado post-sesión. |
 | Mié 17 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. **Boliche noche — máx 2 cervezas.** |
 | Jue 18 | Descanso o EASY muy suave | Mal sueño post-boliche — no forzar. |
 | Vie 19 | **Gym B — Full Body** | — |
-| Sáb 20 | **FF-LONG 19km** | 14km@HR 130–148, últimos 5km@5:13. Salida 4:30AM. Llevar 2 geles. |
+| Sáb 20 | **FF-LONG 16km easy (sin fast finish)** | 16km Z1/Z2 HR cap 148. Sin fast finish esta semana. Pulmones primero. Salida 4:30AM. |
 | Dom 21 | **Gym C — Upper Body** | — |
 **Est. volumen running:** ~49km
 
@@ -198,7 +200,7 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Día | Sesión | Detalle |
 |-----|--------|---------|
 | Lun 22 | EASY 6km + **Gym A — Lower Body (ligero)** | Run mañana, gym 4:30PM. 60% carga. |
-| **Mar 23** | **TEMPO light** | 8min WU+strides + **2×10min@4:50** (5:00 entre reps) + 5min CD. Total ~7km. |
+| **Mar 23** | **TEMPO light (pre-Clásica)** | 8min WU+strides + **2×10min@5:10–5:15** (5:00 entre reps) + 5min CD. Total ~7km. Activación, no umbral. |
 | Mié 24 | EASY 7km | HR 125–140 |
 | Jue 25 | EASY 6km | HR 125–140. Muy suave. |
 | Vie 26 | **Gym B — Full Body (ligero)** | 60% carga, sin fatiga. |
@@ -222,12 +224,12 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | **Mié 1** | **VO2MAX (sharpening)** | 8min WU+strides + **6×1km@4:15** (90s caminando) + 5min CD. Total ~10km. |
 | Jue 2 | EASY 8km | HR 125–145 |
 | Vie 3 | **Gym B — Full Body** | — |
-| Sáb 4 | **RACE-SPECIFIC LONG 18km** | 8min WU+strides easy + **12km@5:05–5:13** + 4km CD easy. Llevar 3 geles (protocolo de carrera). Salida 4:30AM. |
+| Sáb 4 | **RACE-SPECIFIC LONG 18km** | 8min WU+strides easy + **12km@5:20–5:25** + 4km CD easy. Llevar 3 geles (protocolo de carrera). Salida 4:30AM. |
 | Dom 5 | **Gym C — Upper Body** | — |
 **Est. volumen running:** ~44km
 
-> **Sábado 4 es el workout más importante del ciclo.** 12km a ritmo de carrera en calor de Managua
-> con geles = ensayo general de Granada. Si terminás bien, el sub-1:50 está confirmado.
+> **Sábado 4 es el workout más importante del ciclo.** 12km @ 5:20–5:25/km en calor de Managua
+> con geles = ensayo general de Granada. Si terminás bien sin walk breaks y HRRc >30, el 1:53–1:55 está confirmado.
 
 ---
 
@@ -239,9 +241,9 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Lun 6 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. |
 | Mar 7 | EASY 6km | HR 125–145. **Boliche noche — máx 2 cervezas.** |
 | Mié 8 | EASY 6km | HR 125–145 |
-| **Jue 9** | **HM-PACE (confianza)** | 8min WU+strides + **2×5km@5:05** (3:00 entre reps) + 5min CD. Total ~14km. |
+| **Jue 9** | **HM-PACE (confianza)** | 8min WU+strides + **2×5km@5:18–5:22** (3:00 entre reps) + 5min CD. Total ~14km. |
 | Vie 10 | **Gym B — Full Body (moderado)** | — |
-| Sáb 11 | **FF-LONG 16km** | 10km easy + 6km@5:13 |
+| Sáb 11 | **FF-LONG 16km** | 10km easy + 6km@5:20–5:25 |
 | Dom 12 | **Gym C — Upper Body** | — |
 **Est. volumen running:** ~43km
 
@@ -263,7 +265,7 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Mié 15 | EASY 5km + **Gym A — muy ligero (movilidad)** | Run suave mañana, gym movilidad 4:30PM. |
 | Jue 16 | EASY 5km | Completamente conversacional |
 | Vie 17 | Descanso | — |
-| Sáb 18 | LONG 12km | 10km easy + 2km@5:13 (check de confianza). Salida 5:00AM. |
+| Sáb 18 | LONG 12km | 10km easy + 2km@5:18–5:22 (check de confianza). Salida 5:00AM. |
 | Dom 19 | Descanso | — |
 **Est. volumen running:** ~30km
 
@@ -278,24 +280,32 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Jue 23 | Descanso | — |
 | Vie 24 | Descanso | Carb load. Dormir temprano. Hidratación. |
 | Sáb 25 | **Descanso completo** | Preparación mental, revisar logística, nada de ejercicio |
-| **Dom 26** | **🏁 RACE DAY** | **Medio Maratón de Granada — Sub-1:50:00** |
+| **Dom 26** | **🏁 RACE DAY** | **Medio Maratón de Granada — Objetivo 1:53–1:55** |
 **Est. volumen running (sin carrera):** ~9km + raza
 
 ---
 
-## Estrategia de carrera — Granada, 26 de julio
+## Estrategia de carrera — Granada, 26 de julio (AJUSTADA 2026-06-16)
 
-**Condiciones esperadas:** Calor, humano, plano (46m elevación total). Julio = temporada de lluvias pero mañanas calientes.
+**Condiciones esperadas:** Calor, húmedo, plano (46m elevación total). Julio = temporada de lluvias pero mañanas calientes.
 
-**Ritmo objetivo:** 5:13/km → 1:50:00 exacto
-**Estrategia:** Negativa o neutral. Primeros 10km: 5:15–5:18/km (salir conservador en el calor). Km 10–18: 5:10–5:13/km si el cuerpo responde. Km 18–21.1: todo lo que quede.
+**Meta A:** 1:53–1:55 (5:22–5:26/km)
+**Meta B (stretch):** 1:52 — solo si Clásica 10K salió sub-55min y pulmones recuperados al 100%
+
+**Estrategia:** Conservadora por secciones.
+- Km 1–5: 5:25–5:30/km (no dejarse llevar por el pelotón, conservar)
+- Km 6–10: 5:20–5:25/km si HR <172 y respiración limpia
+- Km 11–16: mantener 5:20–5:25/km, ajustar por sensación
+- Km 17–21.1: todo lo que quede, no guardar nada
+
+**Señales de alarma:** HR >178 antes del km 10 → reducir 10-15 seg/km inmediatamente.
 
 **Fueling (protocolo validado Cartago):**
-- Un gel cada 25 minutos desde el km 5
-- SaltStick cada gel (en calor/seco → Managua prep = equivalente)
-- Si llueve o hace menos de 22°C → geles solamente, sin sal
+- Un gel cada 25 minutos desde el km 7–8 y km 14–15
+- SaltStick en calor
+- Hidratación en cada estación
 
-**HR target de carrera:** No corras por HR en carrera — la adrenalina y el calor lo van a disparar. Manejá el ritmo por pace los primeros 10km, después por sensación.
+**HR target de carrera:** No corras por HR — la adrenalina y el calor lo van a disparar. Manejá pace los primeros 10km, después por sensación.
 
 ---
 
