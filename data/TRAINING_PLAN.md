@@ -5,6 +5,8 @@
 
 > **Ajuste 2026-06-16:** Meta original 1:50 suspendida. Post-influenza con hiperreactividad bronquial (Jun 5–16): 3 sesiones de calidad abortadas/reducidas, effort_response negativo sostenido, HRRc por debajo del baseline. Todos los ritmos de calidad reducidos ~12-16 seg/km. VO2max Jun 30 se mantiene @ 4:15/km. La Clásica 10K (Jun 28) es el checkpoint diagnóstico.
 
+> **Ajuste 2026-07-06 (VIGENTE):** Post-desastre Jul 4 en ruta real de Granada (HR no bajaba de 170 bpm incluso a 7:30/km — calor extremo, sesión cortada) + relevos Jul 5 con sensación excelente (IF 98%, effort_response POSITIVE). Decisión: eliminar toda sesión de calidad y bloques largos. Solo easy runs 30–45min HR cap 145 hasta el 18 de julio. Test Run Jul 18 (38min) define pace de salida y objetivo real de Granada. Sem 11 sharpening y FF-LONG eliminados. Meta ajustada a "completar bien" — objetivo cuantitativo TBD post-test.
+
 ---
 
 ## Contexto del plan
@@ -238,14 +240,16 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 
 | Día | Sesión | Detalle |
 |-----|--------|---------|
-| Lun 6 | EASY 7km + **Gym A — Lower Body** | Run mañana, gym 4:30PM. |
-| Mar 7 | EASY 6km | HR 125–145. **Boliche noche — máx 2 cervezas.** |
-| Mié 8 | EASY 6km | HR 125–145 |
-| **Jue 9** | **HM-PACE (confianza)** | 8min WU+strides + **2×5km@5:18–5:22** (3:00 entre reps) + 5min CD. Total ~14km. |
-| Vie 10 | **Gym B — Full Body (moderado)** | — |
-| Sáb 11 | **FF-LONG 16km** | 10km easy + 6km@5:20–5:25 |
+| Lun 6 | ✅ EASY + Gym A | Easy suave + gym. |
+| Mar 7 | ✅ EASY | HR 125–145. Boliche noche. |
+| Mié 8 | ✅ EASY 6km | HR 125–145 |
+| ~~Jue 9~~ | ~~HM-PACE~~ → **SALTADO** | Ajuste Jul 6: sin calidad, solo easy runs hasta Jul 18. |
+| Vie 10 | **Gym B — Full Body** | — |
+| **Sáb 11** | ✅ **Easy hilly 11km** | 11.02km, 202m D+, HR 144 avg, RPE 2/10, feel STRONG. |
 | Dom 12 | **Gym C — Upper Body** | — |
-**Est. volumen running:** ~43km
+**Est. volumen running:** ~27km (ajustado)
+
+> **Semana 10 ejecutada con ajuste:** HM-PACE eliminado por plan post-Jul 4. El sábado hilly fue la sesión más valiosa de la semana — ejecutado limpiamente en terreno difícil a 30°C.
 
 ---
 
@@ -255,23 +259,24 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 
 ---
 
-#### Semana 11 — Jul 13–19
-> Sin boliche esta semana (taper) — calidad va el martes.
+#### Semana 11 — Jul 13–19 (AJUSTADO 2026-07-06 — TAPER SUAVE + TEST)
 
 | Día | Sesión | Detalle |
 |-----|--------|---------|
-| Lun 13 | EASY 6km | HR 125–140 |
-| **Mar 14** | **Sharpening** | 8min WU+strides + **3×1km@4:15** (2:00 entre reps) + 5min CD. Total ~7km. Piernas rápidas, no te destruyas. |
-| Mié 15 | EASY 5km + **Gym A — muy ligero (movilidad)** | Run suave mañana, gym movilidad 4:30PM. |
-| Jue 16 | EASY 5km | Completamente conversacional |
-| Vie 17 | Descanso | — |
-| Sáb 18 | LONG 12km | 10km easy + 2km@5:18–5:22 (check de confianza). Salida 5:00AM. |
-| Dom 19 | Descanso | — |
-**Est. volumen running:** ~30km
+| Lun 13 | ✅ EASY 6km | HR 125–140 |
+| Mar 14 | Recovery 40min + Movilidad | HR cap 145. Garmin: Recovery 40min. |
+| Mié 15 | **Gym A — Lower Body** | — |
+| Jue 16 | Recovery 40min + Movilidad | HR cap 145. |
+| Vie 17 | **Gym B — Full Body** | — |
+| **Sáb 18** | **🔬 TEST RUN (38min)** | 15min entrada muy fácil + **15min RPE 5/10 sin cap HR** + 8min salida. RPE 5/10 = podés decir frases cortas pero no mantener conversación; si tuvieras que correr 30min más lo harías sin problema. **Registrar: pace promedio + HR avg de los 15min → esos datos definen el pace de salida en Granada.** |
+| Dom 19 | **Gym C — Upper Body** | — |
+**Est. volumen running:** ~15km
+
+> **Sharpening (3×1km@4:15) y FF-LONG (10km+2km@5:18) ELIMINADOS** por ajuste Jul 6. La sesión clave de esta semana es el Test Run del sábado.
 
 ---
 
-#### Semana 12 — SEMANA DE CARRERA — Jul 20–26
+#### Semana 12 — SEMANA DE CARRERA — Jul 20–26 (objetivo TBD después del Test Run Jul 18)
 | Día | Sesión | Detalle |
 |-----|--------|---------|
 | Lun 20 | EASY 5km | 5:15AM, completamente fácil, sin mirar el ritmo |
@@ -280,22 +285,22 @@ El plan es la guía. Section 11 evalúa tus métricas diarias y ajusta. Reglas:
 | Jue 23 | Descanso | — |
 | Vie 24 | Descanso | Carb load. Dormir temprano. Hidratación. |
 | Sáb 25 | **Descanso completo** | Preparación mental, revisar logística, nada de ejercicio |
-| **Dom 26** | **🏁 RACE DAY** | **Medio Maratón de Granada — Objetivo 1:53–1:55** |
+| **Dom 26** | **🏁 RACE DAY** | **Medio Maratón de Granada — Objetivo TBD después del Test Run Jul 18.** Estrategia: conservadora, salir al pace que el test indique. |
 **Est. volumen running (sin carrera):** ~9km + raza
 
 ---
 
-## Estrategia de carrera — Granada, 26 de julio (AJUSTADA 2026-06-16)
+## Estrategia de carrera — Granada, 26 de julio (AJUSTADA 2026-07-06)
 
 **Condiciones esperadas:** Calor, húmedo, plano (46m elevación total). Julio = temporada de lluvias pero mañanas calientes.
 
-**Meta A:** 1:53–1:55 (5:22–5:26/km)
-**Meta B (stretch):** 1:52 — solo si Clásica 10K salió sub-55min y pulmones recuperados al 100%
+**Meta:** TBD después del Test Run Jul 18 (pace+HR de los 15min RPE 5/10 = señal más honesta disponible).
+Objetivo base: completar bien, sin blow-up, conservador.
 
-**Estrategia:** Conservadora por secciones.
-- Km 1–5: 5:25–5:30/km (no dejarse llevar por el pelotón, conservar)
-- Km 6–10: 5:20–5:25/km si HR <172 y respiración limpia
-- Km 11–16: mantener 5:20–5:25/km, ajustar por sensación
+**Estrategia:** Completamente conservadora. Salir al pace que indique el test.
+- Km 1–5: pace del test o más lento (no dejarse llevar por el pelotón)
+- Km 6–10: mantener pace test si HR <172 y sensación OK
+- Km 11–16: ajustar por sensación, nunca subir pace antes del km 14
 - Km 17–21.1: todo lo que quede, no guardar nada
 
 **Señales de alarma:** HR >178 antes del km 10 → reducir 10-15 seg/km inmediatamente.
