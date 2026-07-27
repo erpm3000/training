@@ -1,8 +1,8 @@
 # Athlete Training Dossier & Performance Roadmap
 
-**Dossier Version:** v1.6.0
+**Dossier Version:** v1.7.0
 **Protocol Compatibility:** Section 11 v11.6+
-**Date:** 2026-05-03
+**Date:** 2026-07-26
 **Primary Source Systems:** Intervals.icu | Garmin | Runna
 
 ---
@@ -40,16 +40,16 @@ weekly morning weigh-in for better signal — Friday AM, after bathroom, before 
 
 | Goal | Target Date | Notes |
 |------|-------------|-------|
-| Sub-1:50:00 half marathon | 2026-07-26 | Granada HM — A-goal. Expected outcome with consistent build. |
-| Sub-1:53:00 half marathon | 2026-07-26 | Contingency if build is compressed by recovery extension. |
+| ~~Sub-1:50:00 half marathon~~ | ~~2026-07-26~~ | ~~Granada HM — A-goal~~ — revised Jul 21 to 2:03-2:06 based on test run. |
+| ~~Sub-1:53:00 half marathon~~ | ~~2026-07-26~~ | ~~Contingency~~ — also superseded by Jul 21 test run revision. |
+| **COMPLETED: Granada HM** | **2026-07-26** | **2:14:29 (6:22/km, avg HR 170 bpm, 32.3°C). Revised target was 2:03-2:06.** |
 | Improve lean body mass | 2026 ongoing | Via 3x/week strength; weight gain to 79kg should be muscle, not fat. |
+| **Next goal: TBD** | **2026 H2** | Post-HM recovery phase. Define next A-race once recovered. |
 
-**Current Phase:** Post-marathon recovery → HM build (12 weeks to race day)
-**Recent Race:** Maratón de Cartago — 2026-04-12 — 42.55km in 4:20:00 (6:08/km, avg HR 162)
-**Cartago note:** Run at ~1,400m altitude, hilly Central Valley course, Costa Rica.
-Marathon time is suppressed by altitude + terrain — not a valid HM predictor.
-**Training Style:** Runna-programmed; HR-guided on easy/long runs (critical given Managua hills),
-pace-guided on intervals and tempo; 3-4 runs/week + 3x strength
+**Current Phase:** Post-HM recovery (as of 2026-07-26 — race day)
+**Recent Race:** Granada Half Marathon — 2026-07-26 — 21.11km in 2:14:29 (6:22/km, avg HR 170 bpm, 32.3°C). Pre-race revised target was 2:03-2:06 (based on Jul 21 test run). Body battery 10 at race start, ACWR 1.85, overnight sleep ~4.5h in bed. Garmin projects 95h+ recovery.
+**Previous Race:** Maratón de Cartago — 2026-04-12 — 42.55km in 4:20:00 (6:08/km, avg HR 162). At ~1,400m altitude, hilly Central Valley course, Costa Rica. Suppressed by altitude + terrain — not a valid HM predictor.
+**Training Style:** HR-guided on easy/long runs (critical given Managua hills), pace-guided on intervals and tempo; 3-4 runs/week + 3x strength
 
 ---
 
